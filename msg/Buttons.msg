@@ -15,10 +15,5 @@ bool plus
 bool minus
 bool capture
 
-bool up
-bool left
-bool down
-bool right
-
 bool l_stick_pressed
 bool r_stick_pressed
